@@ -17,7 +17,7 @@ public static class AmbientToggleConfig
             "Ambient Settings",           // Configuration section
             "AmbientEnabled",             // Key
             true,                         // Default value
-            "Toggle for enabling/disabling the ambient object on the scene"  // Description
+            "Toggle for enabling/disabling the ambient on the PsychSanctum"  // Description
         );
     }
 }

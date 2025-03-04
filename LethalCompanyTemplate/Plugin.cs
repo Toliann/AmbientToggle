@@ -10,7 +10,7 @@ namespace AmbientToggle
 
     public class AmbientToggleInfo : BaseUnityPlugin
     {
-        public const string GUID = "Tolian.AmbientToggle";
+        public const string GUID = "com.Toliann.AmbientToggle";
         public const string NAME = "AmbientToggle";
         public const string VERSION = "0.0.1";          
     

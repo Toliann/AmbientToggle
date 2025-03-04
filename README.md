@@ -1,2 +1,1 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+Ambient Toggle Mod: A lightweight BepInEx mod for Lethal Company that allows you to enable or disable the ambient object in the scene via a simple configuration file.
